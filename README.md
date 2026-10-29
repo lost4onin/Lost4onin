@@ -1,12 +1,10 @@
-# Hi, I'm Akrem Medimagh
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
   <img alt="Akrem Medimagh's profile" src="dark_mode.svg">
 </picture>
 
-Software Engineering student at INSAT focused on **AI, machine learning, computer vision, backend development, and smart systems**.
+Software Engineering student at INSA Rouen Normandie focused on **AI, machine learning, computer vision, backend development, and smart systems**.
 
 I build practical solutions using **Python, Java, C/C++, React, Symfony, Spring Boot, SQL, Scikit-learn, LangChain, FAISS, and n8n**.
 
